@@ -1,5 +1,3 @@
-# azure_terraform
-
 # ⚙️ Azure Infrastructure Provisioning with Terraform
 
 This repository contains a **modular, production-ready Terraform setup** to deploy infrastructure on Microsoft Azure. It focuses on:
