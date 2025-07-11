@@ -1,0 +1,7 @@
+resource_group_name   = "custom-rg"
+location              = "West Europe"
+vnet_name             = "custom-vnet"
+public_subnet_name    = "custom-public-subnet"
+private_subnet_name   = "custom-private-subnet"
+public_subnet_prefix  = "10.1.1.0/24"
+private_subnet_prefix = "10.1.2.0/24"
