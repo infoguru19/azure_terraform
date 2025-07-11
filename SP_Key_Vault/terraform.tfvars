@@ -1,0 +1,5 @@
+resource_group_name = "rg-secure-apps"
+key_vault_name      = "kv-secure-apps001"
+sp_name             = "secureapp-sp"
+role                = "Contributor"
+location            = "East US"
